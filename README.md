@@ -1,8 +1,14 @@
 # Low Light Image Enhancement using Python & Deep Learning
 
 ## To view the video
-* [Click here](https://youtu.be/b5Uz_c0JLMs)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=b5Uz_c0JLMs" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/b5Uz_c0JLMs?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Low Light Image Enhancement using Python & Deep Learning](http://img.youtube.com/vi/b5Uz_c0JLMs/0.jpg)](http://www.youtube.com/watch?v=b5Uz_c0JLMs)
 
